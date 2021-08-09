@@ -1,5 +1,5 @@
 name: csmi-stages
-title: Master CSMI
+title: Master CSMI {year}
 version: '0.1.0'
 prerelease: '-alpha.1'
 start_page: ROOT:index.adoc
