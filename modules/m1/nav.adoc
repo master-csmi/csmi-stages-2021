@@ -1,1 +1,1 @@
-* xref:index.adoc[M1 2021]
+* xref:index.adoc[M1 {year}]

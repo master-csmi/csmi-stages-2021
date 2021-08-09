@@ -2,9 +2,9 @@
 :imagesprefix:
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
 
-= Master CSMI
+= Master CSMI {year}
 
 [bibliography]
 == References
 
-include::partial$bibliography.adoc[]% 
+include::partial$bibliography.adoc[]

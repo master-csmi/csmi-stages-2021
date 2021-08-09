@@ -1,5 +1,5 @@
 site:
-  title: Master CSMI
+  title: Master CSMI {year}
   url: http://localhost:8081
   start_page: csmi-stages:ROOT:index.adoc
 content:
@@ -21,6 +21,7 @@ asciidoc:
     numbered: true
     allow-uri-read: true
     hide-uri-scheme: true
+    year: 2021
     feelpp: Feel++
     angiotk: AngioTK
     4fastsim: 4FastSim
