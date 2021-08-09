@@ -1,0 +1,79 @@
+:feelpp: Feel++
+= Master CSMI
+
+image:https://github.com/master-csmi/csmi/workflows/CI/badge.svg[CI]
+
+== Generating the document 
+
+===  Prerequisites
+
+Antora is built on Node.js and is verified to work on Linux, macOS, and Windows.
+To install Antora, you'll need Node (including npm, which is bundled with Node) on your system.
+You may also find the base build tools for your OS helpful (which includes `git`), though they're not required.
+We recommend using the latest long term support (LTS) release of Node.
+While you can use other versions of Node, Antora is only tested against {url-node-releases}[active LTS releases].
+
+To check whether you have Node installed, and which version, open a terminal and type:
+
+ $ node --version
+
+If this command fails with an error, it means you don't yet have Node installed.
+If the command doesn't report an active Node LTS version (e.g., v{version-node}), you don't have a suitable version of Node installed.
+
+The best way to install Node is to use {url-nvm}[nvm] (Node Version Manager).
+If your package manager provides Node and npm packages, _and you're familiar with using the tools installed system-wide_, you may choose to go that route.
+However, we believe you'll be more successful if you choose nvm.
+
+NOTE: Most CI environments use nvm to manage the version of Node used in the build job.
+By using nvm, you align your local setup with the environment used to generate and publish your production site.
+
+If you're using Linux or macOS, follow {url-nvm-install}[the nvm installation instructions] to set up nvm on your machine.
+If you're using Windows, you can install the {url-nvm-windows}[Windows port of nvm] via the {url-choco}[Chocolatey package manager] using `choco install -y nvm`.
+Alternatively, you can install the LTS release of Node directly using `choco install -y nodejs-lts`.
+
+Once you've installed nvm, open a *new* terminal and install the latest Node LTS release using:
+
+ $ nvm install --lts
+
+IMPORTANT: If you're using nvm for Windows, you must enter the full version of Node when running commands (e.g., `nvm install {version-node}`, `nvm use {version-node}`).
+Run `nvm list available` to see a list of available Node versions.
+
+To make Node 12 the default in new terminals (Linux and macOS only), type:
+
+ $ nvm alias default 12
+
+Switch to this version of Node using the following command:
+
+ $ nvm use 12
+
+Now that you have Node installed, you can install Antora.
+
+
+=== Install Antora
+
+install antora::
++
+[source,sh]
+----
+npm install
+----
+
+run antora in dev mode::
++
+[source,sh]
+----
+npm run dev
+----
+
+serve the web site::
++
+[source,sh]
+----
+npm run serve
+----
+
+
+
+
+
+

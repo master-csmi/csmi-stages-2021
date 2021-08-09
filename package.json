@@ -1,0 +1,44 @@
+{
+  "private": true,
+  "name": "csmi",
+  "description": "Master CSMI",
+  "version": "0.1.0",
+  "license": "AGPL-3.0",
+  "author": "The Feelpp Team",
+  "homepage": "https://www.github.com/master-csmi/csmi#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://www.github.com/master-csmi/csmi.git"
+  },
+  "bugs": {
+    "url": "https://www.github.com/master-csmi/csmi/issues"
+  },
+  "contributors": [
+    {
+      "name": "Christophe Prud'homme",
+      "email": "christophe.prudhomme@cemosis.fr"
+    }
+  ],
+  "scripts": {
+    "prose": "write-good --parse **/*.adoc",
+    "serve": "http-server public/ -d -i",
+    "dev": "antora --stacktrace generate --cache-dir .cache/antora/ --clean site-dev.yml",
+    "antora": "antora --stacktrace generate --cache-dir cache --clean site.yml",
+    "validate": "antora --stacktrace generate --cache-dir cache --generator ./generator/xref-validator.js --clean site.yml",
+    "linkcheck": "broken-link-checker --filter-level 3 --recursive --verbose"
+  },
+  "dependencies": {
+    "@antora/cli": "^2.3.4",
+    "@antora/site-generator-default": "^2.3.4"
+  },
+  "devDependencies": {
+    "broken-link-checker": "^0.7.8",
+    "http-server": "^0.11.1",
+    "write-good": "^0.13.1"
+  },
+  "keywords": [
+    "antora",
+    "asciidoc",
+    "documentation"
+  ]
+}

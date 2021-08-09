@@ -1,0 +1,32 @@
+site:
+  title: Master CSMI
+  url: http://localhost:8081
+  start_page: csmi-stages:ROOT:index.adoc
+content:
+  sources:
+  - url: ./
+    branches: main
+ui:
+  bundle:
+    url: https://gitlab.com/feelpp/antora-ui-default/-/jobs/artifacts/feelpp/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+output:
+  clean: true
+  dir: public
+  
+asciidoc:
+  attributes:
+    project_version: 0.1
+    deploymentRoot: ""
+    numbered: true
+    allow-uri-read: true
+    hide-uri-scheme: true
+    feelpp: Feel++
+    angiotk: AngioTK
+    4fastsim: 4FastSim
+    stem: latexmath
+    hemotumpp: Hemotum++
+    eye2brain: Eye2Brain
+    swimmer: Swimmer
+    cemosis: https://www.cemosis.fr[Cemosis]
+    amies: https://www.agence-maths-entreprises.fr/[AMIES]
