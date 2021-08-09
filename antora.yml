@@ -3,6 +3,10 @@ title: Master CSMI {year}
 version: '0.1.0'
 prerelease: '-alpha.1'
 start_page: ROOT:index.adoc
+asciidoc: 
+  attributes: 
+    hide-uri-scheme: '' 
+    year: 2021
 nav:
 - modules/ROOT/nav.adoc
 - modules/m1/nav.adoc
