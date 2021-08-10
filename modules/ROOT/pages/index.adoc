@@ -9,16 +9,16 @@ Ceci est la page principale des rapports de stage de l'année {year} pour les Ma
 
 == Comment générer le site
 
-== Comment déposer son rapport et sa présentation
+== Le travail de stage
 
-Les rapports peuvent prendre 2 formes: 
-- un fichier PDF
-- un site Antora
+Le travail de stage se présentera sous la forme suivante:
 
-Les présentations sont déposées au format PDF.
+-[x] un rapport de stage au format PDF ou un site Antora
+-[x] une présentation au format PDF
+-[x] un résumé du contexte et du travail accompli
+-[x] une image illustrant votre travail avec son annotation
 
-Les rapports seront accompagnés d'une image annotée et d'un résumé de quelques lignes en francais ou en anglais ou les 2. 
-Pensez à DeepL pour la traduction.
+Votre travail sera déposé sur le site de l'année correspondante.
 
 === Comment déposer un PDF
 
