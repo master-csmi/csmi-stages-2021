@@ -7,10 +7,12 @@ ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
 ----
 * uploader dans le module `{master}/attachments/nom-prenom-entreprise.pdf`
 * éditer `{master}/partials/rapports.adoc`
+
 [source,asciidoc]
 --
  -  [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers le pdf du rapport
 --
+
 * éditer `{master}/pages/index.adoc` et rajouter une section avec
   - titre du rapport, nom prénom 
   - résumé de quelques lignes du contexte & travail accompli
