@@ -1,17 +1,17 @@
 {
   "private": true,
-  "name": "csmi",
-  "description": "Master CSMI",
+  "name": "csmi-stages",
+  "description": "Stages Master CSMI",
   "version": "0.1.0",
   "license": "AGPL-3.0",
-  "author": "The Feelpp Team",
-  "homepage": "https://www.github.com/master-csmi/csmi#readme",
+  "author": "Christophe Prud'homme",
+  "homepage": "https://www.github.com/master-csmi/csmi-stages#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://www.github.com/master-csmi/csmi.git"
+    "url": "git+https://www.github.com/master-csmi/csmi-stages.git"
   },
   "bugs": {
-    "url": "https://www.github.com/master-csmi/csmi/issues"
+    "url": "https://www.github.com/master-csmi/csmi-stages/issues"
   },
   "contributors": [
     {
@@ -28,8 +28,8 @@
     "linkcheck": "broken-link-checker --filter-level 3 --recursive --verbose"
   },
   "dependencies": {
-    "@antora/cli": "^2.3.4",
-    "@antora/site-generator-default": "^2.3.4"
+    "@antora/cli": "3.0.0-alpha.7",
+    "@antora/site-generator-default": "3.0.0-alpha.7"
   },
   "devDependencies": {
     "broken-link-checker": "^0.7.8",

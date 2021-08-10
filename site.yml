@@ -31,3 +31,6 @@ asciidoc:
     swimmer: Swimmer
     cemosis: https://www.cemosis.fr[Cemosis]
     amies: https://www.agence-maths-entreprises.fr/[AMIES]
+  extensions:
+    - ./lib/tabs-block-extension
+    - "@djencks/asciidoctor-template"

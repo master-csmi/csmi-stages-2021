@@ -2,6 +2,19 @@
 :imagesprefix:
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
 
+[blockMacroTemplate,par,'year,master']
+----
+* uploader dans le module master/attachments/nom-prenom-entreprise.pdf
+* éditer m1/partials/rapports.adoc 
+--
+- [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers le pdf du rapport
+--
+* éditer m1/pages/index.adoc et rajouter une section avec
+  - titre du rapport, nom prénom 
+  - résumé de quelques lignes du contexte & travail accompli
+  - un lien vers le PDF de votre rapport
+  - une image illustrative du travail avec une annotation
+----
 
 = Master CSMI 
 
@@ -13,33 +26,35 @@ Ceci est la page principale des rapports de stage de l'année {year} pour les Ma
 
 Le travail de stage se présentera sous la forme suivante:
 
--[x] un rapport de stage au format PDF ou un site Antora
--[x] une présentation au format PDF
--[x] un résumé du contexte et du travail accompli
--[x] une image illustrant votre travail avec son annotation
+* [x] un rapport de stage au format PDF ou un site Antora
+* [x] une présentation au format PDF
+* [x] un résumé du contexte et du travail accompli
+* [x] une image illustrant votre travail avec son annotation
 
 Votre travail sera déposé sur le site de l'année correspondante.
 
 === Comment déposer un PDF
 
-- uploader dans le module m1/attachments/nom-prenom-entreprise.pdf
-- éditer m1/partials/rapports.adoc 
-----
-- [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers le pdf du rapport
-----
-- éditer m1/pages/index.adoc et rajouter une section avec
-  - titre du rapport, nom prénom 
-  - résumé de quelques lignes du contexte & travail accompli
-  - un lien vers le PDF de votre rapport
-  - une image illustrative du travail avec une annotation
+[tabs]
+====
+Master 1::
++
+--
+par::[{year},m1]
+--
+Master 2::
+--
+par::[{year},m1]
+--
+====
 
 === Comment déposer un rapport Antora
 
-- éditer m1/partials/rapports.adoc 
+* éditer m1/partials/rapports.adoc 
 ----
 - [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers la page antora de votre rapport
 ----
-- éditer m1/pages/index.adoc et rajouter une section avec
+* éditer m1/pages/index.adoc et rajouter une section avec
   - titre du rapport, nom prénom 
   - résumé de quelques lignes du contexte & travail accompli
   - un lien vers la page principale antora de votre rapport
