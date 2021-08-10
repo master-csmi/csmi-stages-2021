@@ -1,7 +1,6 @@
 name: csmi-stages
 title: Master CSMI 2021 (template)
-version: '0.1.0'
-prerelease: '-alpha.1'
+version: master
 start_page: ROOT:index.adoc
 asciidoc: 
   attributes: 
