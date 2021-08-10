@@ -1,6 +1,7 @@
 :stem: latexmath
 :imagesprefix:
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
+= Master CSMI 
 
 [blockMacroTemplate,par,'year,master']
 ----
@@ -16,7 +17,7 @@ ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
   - une image illustrative du travail avec une annotation
 ----
 
-= Master CSMI 
+
 
 Ceci est la page principale des rapports de stage de l'année {year} pour les Master 1 et 2 CSMI.
 
@@ -35,18 +36,13 @@ Votre travail sera déposé sur le site de l'année correspondante.
 
 === Comment déposer un PDF
 
-[tabs]
-====
-Master 1::
-+
---
+==== Master 1
+
 par::[{year},m1]
---
-Master 2::
---
-par::[{year},m1]
---
-====
+
+==== Master 2
+
+par::[{year},m2]
 
 === Comment déposer un rapport Antora
 

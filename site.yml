@@ -32,5 +32,5 @@ asciidoc:
     cemosis: https://www.cemosis.fr[Cemosis]
     amies: https://www.agence-maths-entreprises.fr/[AMIES]
   extensions:
-    - ./lib/tabs-block-extension
+    - ./lib/tabs-block
     - "@djencks/asciidoctor-template"
