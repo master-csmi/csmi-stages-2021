@@ -1,5 +1,5 @@
 site:
-  title: Master CSMI {year}
+  title: Master CSMI::Stages 
   url: https://master-csmi.github.io/csmi-stages
   start_page: csmi-stages:ROOT:index.adoc
 content:

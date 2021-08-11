@@ -7,4 +7,4 @@ ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
 [bibliography]
 == References
 
-include::partial$bibliography.adoc[]
+include::partial$rapports.adoc[]
