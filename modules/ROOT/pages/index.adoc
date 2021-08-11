@@ -1,28 +1,79 @@
 :stem: latexmath
+:experimental: true
 :imagesprefix:
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
+# :repo: csmi-stages-{year}
+:repo: csmi-stages
+:stages-uri: https://github.com/master-csmi/{repo}
+:pr-uri: https://github.com/master-csmi/{repo}}/compare
+:pdf-rep: modules/{master}/attachments
 = Master CSMI 
 
 [blockMacroTemplate,par,'year,master']
 ----
-* uploader dans le module `{master}/attachments/nom-prenom-entreprise.pdf`
-* éditer `{master}/partials/rapports.adoc`
+* cloner le repository 
+
+[source,shell]
+--
+git clone {stages-uri}
+cd {repo}
+--
+
+* créer la branche `{master}-<votre nom>`
+
+[source,shell]
+--
+git checkout -b `{master}-<votre nom>`
+--
+
+* ajouter votre rapport au répertoire `modules/{master}/attachments/nom-prenom-entreprise.pdf`
+* ajouter votre présentation au répertoire `modules/{master}/attachments/nom-prenom-entreprise-slides.pdf`
+* éditer `modules/{master}/partials/rapports.adoc`
 
 [source,asciidoc]
 --
- -  [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers le pdf du rapport
+ -  [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers le pdf du rapport, lien vers le PDF de la présentation
 --
 
-* éditer `{master}/pages/index.adoc` et rajouter une section avec
+* éditer `modules/{master}/pages/index.adoc` et rajouter une section avec
   - titre du rapport, nom prénom 
   - résumé de quelques lignes du contexte & travail accompli
   - un lien vers le PDF de votre rapport
   - une image illustrative du travail avec une annotation
+
+* vérifier que le site peut être généré correctement. Il faudrait éventuellement installer node et nvm, dans ce cas suivre la procédure https://docs.antora.org/antora/2.3/install-and-run-quickstart/#install-nodejs[ici].
+
+.Sous Linux
+[source,shell]
+--
+# les 3 lignes sont uniquement pour l'installation
+nvm install --lts
+nvm alias default 12
+npm install
+# génération du site
+npm run dev
+# création du serveur web
+npm run serve
+--
+cliquer sur l'url donnée pour visualiser le site
+
+* committer vos changements et pousser votre branche sur github 
+
+[source,shell]
+--
+# voir vos changements
+git status
+# commit tous les changements
+git commit -a -m"rapport nom prenom"
+--
+
+* créer un Pull Request sur {pr-uri} en sélectionnant votre branche
+
+NOTE: le PDF de la présentation peut être déposer la veille au soir de la soutenance
 ----
 
 Ceci est la page principale des rapports de stage de l'année {year} pour les Master 1 et 2 CSMI.
 
-== Comment générer le site
 
 == Le travail de stage
 
