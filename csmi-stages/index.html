@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Master CSMI :: Master CSMI::Stages</title>
+    <title>:repo: csmi-stages-2021 :: Master CSMI::Stages</title>
     <link rel="canonical" href="https://master-csmi.github.io/csmi-stages/csmi-stages/index.html">
     <meta name="generator" content="Antora 2.3.4">
     <link rel="stylesheet" href="../_/css/site.css">
@@ -221,7 +221,7 @@ MathJax.Hub.Config({
   </div>
   <div class="content">
 <article class="doc">
-<h1 class="page">Master CSMI</h1>
+<h1 class="page">:repo: csmi-stages-2021</h1>
 <div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
@@ -230,13 +230,7 @@ MathJax.Hub.Config({
 </div>
 </div>
 <div class="sect1">
-<h2 id="_comment_générer_le_site"><a class="anchor" href="#_comment_générer_le_site"></a>1. Comment générer le site</h2>
-<div class="sectionbody">
-
-</div>
-</div>
-<div class="sect1">
-<h2 id="_le_travail_de_stage"><a class="anchor" href="#_le_travail_de_stage"></a>2. Le travail de stage</h2>
+<h2 id="_le_travail_de_stage"><a class="anchor" href="#_le_travail_de_stage"></a>1. Le travail de stage</h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>Le travail de stage se présentera sous la forme suivante:</p>
@@ -261,28 +255,56 @@ MathJax.Hub.Config({
 <p>Votre travail sera déposé sur le site de l&#8217;année correspondante.</p>
 </div>
 <div class="sect2">
-<h3 id="_comment_déposer_un_pdf"><a class="anchor" href="#_comment_déposer_un_pdf"></a>2.1. Comment déposer un PDF</h3>
+<h3 id="_comment_déposer_un_pdf"><a class="anchor" href="#_comment_déposer_un_pdf"></a>1.1. Comment déposer un PDF</h3>
 <div class="sect3">
-<h4 id="_master_1"><a class="anchor" href="#_master_1"></a>2.1.1. Master 1</h4>
+<h4 id="_master_1"><a class="anchor" href="#_master_1"></a>1.1.1. Master 1</h4>
 <div class="ulist">
 <ul>
 <li>
-<p>uploader dans le module <code>m1/attachments/nom-prenom-entreprise.pdf</code></p>
-</li>
-<li>
-<p>éditer <code>m1/partials/rapports.adoc</code></p>
+<p>cloner le repository</p>
 </li>
 </ul>
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="highlightjs highlight"><code class="language-asciidoc hljs" data-lang="asciidoc"> -  [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers le pdf du rapport</code></pre>
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell">git clone https://github.com/master-csmi/csmi-stages
+cd csmi-stages</code></pre>
 </div>
 </div>
 <div class="ulist">
 <ul>
 <li>
-<p>éditer <code>m1/pages/index.adoc</code> et rajouter une section avec</p>
+<p>créer la branche <code>m1-&lt;votre nom&gt;</code></p>
+</li>
+</ul>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell">git checkout -b `m1-&lt;votre nom&gt;`</code></pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>ajouter votre rapport au répertoire <code>modules/m1/attachments/nom-prenom-entreprise.pdf</code></p>
+</li>
+<li>
+<p>ajouter votre présentation au répertoire <code>modules/m1/attachments/nom-prenom-entreprise-slides.pdf</code></p>
+</li>
+<li>
+<p>éditer <code>modules/m1/partials/rapports.adoc</code></p>
+</li>
+</ul>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-asciidoc hljs" data-lang="asciidoc"> -  [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers le pdf du rapport, lien vers le PDF de la présentation</code></pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>éditer <code>modules/m1/pages/index.adoc</code> et rajouter une section avec</p>
 <div class="ulist">
 <ul>
 <li>
@@ -300,30 +322,111 @@ MathJax.Hub.Config({
 </ul>
 </div>
 </li>
+<li>
+<p>vérifier que le site peut être généré correctement. Il faudrait éventuellement installer node et nvm, dans ce cas suivre la procédure <a href="https://docs.antora.org/antora/2.3/install-and-run-quickstart/#install-nodejs">ici</a>.</p>
+</li>
 </ul>
 </div>
+<div class="listingblock">
+<div class="title">Sous Linux</div>
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"># les 3 lignes sont uniquement pour l'installation
+nvm install --lts
+nvm alias default 12
+npm install
+# génération du site
+npm run dev
+# création du serveur web
+npm run serve</code></pre>
 </div>
-<div class="sect3">
-<h4 id="_master_2"><a class="anchor" href="#_master_2"></a>2.1.2. Master 2</h4>
+</div>
+<div class="paragraph">
+<p>cliquer sur l&#8217;url donnée pour visualiser le site</p>
+</div>
 <div class="ulist">
 <ul>
 <li>
-<p>uploader dans le module <code>m2/attachments/nom-prenom-entreprise.pdf</code></p>
-</li>
-<li>
-<p>éditer <code>m2/partials/rapports.adoc</code></p>
+<p>committer vos changements et pousser votre branche sur github</p>
 </li>
 </ul>
 </div>
 <div class="listingblock">
 <div class="content">
-<pre class="highlightjs highlight"><code class="language-asciidoc hljs" data-lang="asciidoc"> -  [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers le pdf du rapport</code></pre>
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"># voir vos changements
+git status
+# commit tous les changements
+git commit -a -m"rapport nom prenom"</code></pre>
 </div>
 </div>
 <div class="ulist">
 <ul>
 <li>
-<p>éditer <code>m2/pages/index.adoc</code> et rajouter une section avec</p>
+<p>créer un Pull Request sur <a href="https://github.com/master-csmi/csmi-stages}/compare" class="bare">github.com/master-csmi/csmi-stages}/compare</a> en sélectionnant votre branche</p>
+</li>
+</ul>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+le PDF de la présentation peut être déposer la veille au soir de la soutenance
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_master_2"><a class="anchor" href="#_master_2"></a>1.1.2. Master 2</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>cloner le repository</p>
+</li>
+</ul>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell">git clone https://github.com/master-csmi/csmi-stages
+cd csmi-stages</code></pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>créer la branche <code>m2-&lt;votre nom&gt;</code></p>
+</li>
+</ul>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell">git checkout -b `m2-&lt;votre nom&gt;`</code></pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>ajouter votre rapport au répertoire <code>modules/m2/attachments/nom-prenom-entreprise.pdf</code></p>
+</li>
+<li>
+<p>ajouter votre présentation au répertoire <code>modules/m2/attachments/nom-prenom-entreprise-slides.pdf</code></p>
+</li>
+<li>
+<p>éditer <code>modules/m2/partials/rapports.adoc</code></p>
+</li>
+</ul>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-asciidoc hljs" data-lang="asciidoc"> -  [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers le pdf du rapport, lien vers le PDF de la présentation</code></pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>éditer <code>modules/m2/pages/index.adoc</code> et rajouter une section avec</p>
 <div class="ulist">
 <ul>
 <li>
@@ -341,12 +444,65 @@ MathJax.Hub.Config({
 </ul>
 </div>
 </li>
+<li>
+<p>vérifier que le site peut être généré correctement. Il faudrait éventuellement installer node et nvm, dans ce cas suivre la procédure <a href="https://docs.antora.org/antora/2.3/install-and-run-quickstart/#install-nodejs">ici</a>.</p>
+</li>
 </ul>
+</div>
+<div class="listingblock">
+<div class="title">Sous Linux</div>
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"># les 3 lignes sont uniquement pour l'installation
+nvm install --lts
+nvm alias default 12
+npm install
+# génération du site
+npm run dev
+# création du serveur web
+npm run serve</code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>cliquer sur l&#8217;url donnée pour visualiser le site</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>committer vos changements et pousser votre branche sur github</p>
+</li>
+</ul>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"># voir vos changements
+git status
+# commit tous les changements
+git commit -a -m"rapport nom prenom"</code></pre>
+</div>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>créer un Pull Request sur <a href="https://github.com/master-csmi/csmi-stages}/compare" class="bare">github.com/master-csmi/csmi-stages}/compare</a> en sélectionnant votre branche</p>
+</li>
+</ul>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+le PDF de la présentation peut être déposer la veille au soir de la soutenance
+</td>
+</tr>
+</table>
 </div>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_comment_déposer_un_rapport_antora"><a class="anchor" href="#_comment_déposer_un_rapport_antora"></a>2.2. Comment déposer un rapport Antora</h3>
+<h3 id="_comment_déposer_un_rapport_antora"><a class="anchor" href="#_comment_déposer_un_rapport_antora"></a>1.2. Comment déposer un rapport Antora</h3>
 <div class="ulist">
 <ul>
 <li>
