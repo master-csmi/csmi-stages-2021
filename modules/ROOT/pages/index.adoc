@@ -2,7 +2,6 @@
 :experimental: true
 :imagesprefix:
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
-# :repo: csmi-stages-{year}
 :repo: csmi-stages
 :stages-uri: https://github.com/master-csmi/{repo}
 :pr-uri: https://github.com/master-csmi/{repo}}/compare
@@ -69,7 +68,8 @@ git commit -a -m"rapport nom prenom"
 
 * créer un Pull Request sur {pr-uri} en sélectionnant votre branche
 
-NOTE: le PDF de la présentation peut être déposer la veille au soir de la soutenance
+NOTE: le PDF de la présentation peut être déposé la veille au soir de la soutenance
+
 ----
 
 Ceci est la page principale des rapports de stage de l'année {year} pour les Master 1 et 2 CSMI.
