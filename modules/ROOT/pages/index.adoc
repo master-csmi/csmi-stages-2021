@@ -39,7 +39,7 @@ git checkout -b `{master}-<votre nom>`
   - titre du rapport, nom prénom 
   - résumé de quelques lignes du contexte & travail accompli
   - un lien vers le PDF de votre rapport
-  - une image illustrative du travail avec une annotation
+  - une image illustrative du travail avec une annotation qui sera déposée dans `modules/{master}/images/nom-prenom.png` (ou au format jpeg) et utilisée avec le résumé pour illustrer votre travail.
 
 NOTE: suivre l'exemple des rapports déjà présents
 
