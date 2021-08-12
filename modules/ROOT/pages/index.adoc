@@ -39,6 +39,7 @@ git checkout -b `{master}-<votre nom>`
   - résumé de quelques lignes du contexte & travail accompli
   - un lien vers le PDF de votre rapport
   - une image illustrative du travail avec une annotation
+NOTE: suivre l'exemple des rapports déjà présents
 
 * vérifier que le site peut être généré correctement. Il faudrait éventuellement installer node et nvm, dans ce cas suivre la procédure https://docs.antora.org/antora/2.3/install-and-run-quickstart/#install-nodejs[ici].
 
