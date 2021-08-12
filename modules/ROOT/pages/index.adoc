@@ -101,12 +101,13 @@ par::[{year},m2]
 
 === Comment déposer un rapport Antora
 
+Pour déposer le rapport Antora il suffit de suivre les étapes pour le rapport PDF 
+excepté que vous n'avez pas à déposer votre rapport mais à mettre le lien vers
+le site antora de votre rapport dans `rapports.adoc` ainsi que le résumé de votre travail.
+
 * éditer m1/partials/rapports.adoc 
 ----
 - [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers la page antora de votre rapport
 ----
-* éditer m1/pages/index.adoc et rajouter une section avec
-  - titre du rapport, nom prénom 
-  - résumé de quelques lignes du contexte & travail accompli
-  - un lien vers la page principale antora de votre rapport
-  - une image illustrative du travail avec une annotation
+
+NOTE: votre présentation sera au format PDF.
