@@ -243,12 +243,6 @@ MathJax.Hub.Config({
 <li>
 <p><i class="fa fa-check-square-o"></i> une présentation au format PDF</p>
 </li>
-<li>
-<p><i class="fa fa-check-square-o"></i> un résumé du contexte et du travail accompli</p>
-</li>
-<li>
-<p><i class="fa fa-check-square-o"></i> une image illustrant votre travail avec son annotation</p>
-</li>
 </ul>
 </div>
 <div class="paragraph">
@@ -286,81 +280,17 @@ cd csmi-stages</code></pre>
 <div class="ulist">
 <ul>
 <li>
-<p>ajouter votre rapport au répertoire <code>modules/m1/attachments/nom-prenom-entreprise.pdf</code></p>
+<p>ajouter votre rapport au répertoire <code>modules/m1/attachments/Nom-Prenom.pdf</code></p>
 </li>
 <li>
-<p>ajouter votre présentation au répertoire <code>modules/m1/attachments/nom-prenom-entreprise-slides.pdf</code></p>
+<p>ajouter votre présentation au répertoire <code>modules/m1/attachments/Nom-Prenom-slides.pdf</code></p>
 </li>
 <li>
-<p>éditer <code>modules/m1/partials/rapports.adoc</code></p>
-</li>
-</ul>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre class="highlightjs highlight"><code class="language-asciidoc hljs" data-lang="asciidoc"> -  [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers le pdf du rapport, lien vers le PDF de la présentation</code></pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>éditer <code>modules/m1/pages/index.adoc</code> et rajouter une section avec</p>
-<div class="ulist">
-<ul>
-<li>
-<p>titre du rapport, nom prénom</p>
+<p>s&#8217;assurer que les PDF correspondent aux liens de votre rapport et présentation dans la page <a href="https://master-csmi.github.io/csmi-stages/csmi-stages/m1/index.html" class="bare">master-csmi.github.io/csmi-stages/csmi-stages/m1/index.html</a></p>
 </li>
 <li>
-<p>résumé de quelques lignes du contexte &amp; travail accompli</p>
+<p>éditer <code>modules/m1/partials/rapports.adoc</code> si besoin pour corriger la référence à votre travail</p>
 </li>
-<li>
-<p>un lien vers le PDF de votre rapport</p>
-</li>
-<li>
-<p>une image illustrative du travail avec une annotation qui sera déposée dans <code>modules/m1/images/nom-prenom.png</code> (ou au format jpeg) et utilisée avec le résumé pour illustrer votre travail.</p>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-</div>
-<div class="admonitionblock note">
-<table>
-<tr>
-<td class="icon">
-<i class="fa icon-note" title="Note"></i>
-</td>
-<td class="content">
-suivre l&#8217;exemple des rapports déjà présents
-</td>
-</tr>
-</table>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>vérifier que le site peut être généré correctement. Il faudrait éventuellement installer node et nvm, dans ce cas suivre la procédure <a href="https://docs.antora.org/antora/2.3/install-and-run-quickstart/#install-nodejs">ici</a>.</p>
-</li>
-</ul>
-</div>
-<div class="listingblock">
-<div class="title">Sous Linux</div>
-<div class="content">
-<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"># les 3 lignes sont uniquement pour l'installation
-nvm install --lts
-nvm alias default 12
-npm install
-# génération du site
-npm run dev
-# création du serveur web
-npm run serve</code></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>cliquer sur l&#8217;url donnée pour visualiser le site</p>
-</div>
-<div class="ulist">
-<ul>
 <li>
 <p>committer vos changements et pousser votre branche sur github</p>
 </li>
@@ -424,81 +354,17 @@ cd csmi-stages</code></pre>
 <div class="ulist">
 <ul>
 <li>
-<p>ajouter votre rapport au répertoire <code>modules/m2/attachments/nom-prenom-entreprise.pdf</code></p>
+<p>ajouter votre rapport au répertoire <code>modules/m2/attachments/Nom-Prenom.pdf</code></p>
 </li>
 <li>
-<p>ajouter votre présentation au répertoire <code>modules/m2/attachments/nom-prenom-entreprise-slides.pdf</code></p>
+<p>ajouter votre présentation au répertoire <code>modules/m2/attachments/Nom-Prenom-slides.pdf</code></p>
 </li>
 <li>
-<p>éditer <code>modules/m2/partials/rapports.adoc</code></p>
-</li>
-</ul>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre class="highlightjs highlight"><code class="language-asciidoc hljs" data-lang="asciidoc"> -  [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers le pdf du rapport, lien vers le PDF de la présentation</code></pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>éditer <code>modules/m2/pages/index.adoc</code> et rajouter une section avec</p>
-<div class="ulist">
-<ul>
-<li>
-<p>titre du rapport, nom prénom</p>
+<p>s&#8217;assurer que les PDF correspondent aux liens de votre rapport et présentation dans la page <a href="https://master-csmi.github.io/csmi-stages/csmi-stages/m2/index.html" class="bare">master-csmi.github.io/csmi-stages/csmi-stages/m2/index.html</a></p>
 </li>
 <li>
-<p>résumé de quelques lignes du contexte &amp; travail accompli</p>
+<p>éditer <code>modules/m2/partials/rapports.adoc</code> si besoin pour corriger la référence à votre travail</p>
 </li>
-<li>
-<p>un lien vers le PDF de votre rapport</p>
-</li>
-<li>
-<p>une image illustrative du travail avec une annotation qui sera déposée dans <code>modules/m2/images/nom-prenom.png</code> (ou au format jpeg) et utilisée avec le résumé pour illustrer votre travail.</p>
-</li>
-</ul>
-</div>
-</li>
-</ul>
-</div>
-<div class="admonitionblock note">
-<table>
-<tr>
-<td class="icon">
-<i class="fa icon-note" title="Note"></i>
-</td>
-<td class="content">
-suivre l&#8217;exemple des rapports déjà présents
-</td>
-</tr>
-</table>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>vérifier que le site peut être généré correctement. Il faudrait éventuellement installer node et nvm, dans ce cas suivre la procédure <a href="https://docs.antora.org/antora/2.3/install-and-run-quickstart/#install-nodejs">ici</a>.</p>
-</li>
-</ul>
-</div>
-<div class="listingblock">
-<div class="title">Sous Linux</div>
-<div class="content">
-<pre class="highlightjs highlight"><code class="language-shell hljs" data-lang="shell"># les 3 lignes sont uniquement pour l'installation
-nvm install --lts
-nvm alias default 12
-npm install
-# génération du site
-npm run dev
-# création du serveur web
-npm run serve</code></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>cliquer sur l&#8217;url donnée pour visualiser le site</p>
-</div>
-<div class="ulist">
-<ul>
 <li>
 <p>committer vos changements et pousser votre branche sur github</p>
 </li>
@@ -537,20 +403,8 @@ le PDF de la présentation peut être déposé la veille au soir de la soutenanc
 <h3 id="_comment_déposer_un_rapport_antora"><a class="anchor" href="#_comment_déposer_un_rapport_antora"></a>1.2. Comment déposer un rapport Antora</h3>
 <div class="paragraph">
 <p>Pour déposer le rapport Antora il suffit de suivre les étapes pour le rapport PDF
-excepté que vous n&#8217;avez pas à déposer votre rapport mais à mettre le lien vers
-le site antora de votre rapport dans <code>rapports.adoc</code> ainsi que le résumé de votre travail.</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>éditer m1/partials/rapports.adoc</p>
-</li>
-</ul>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre>- [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers la page antora de votre rapport</pre>
-</div>
+excepté que vous n&#8217;avez pas à déposer votre rapport PDF mais à mettre le lien vers
+le site antora de votre rapport dans <code>modules/{master}/partials/rapports.adoc</code>.</p>
 </div>
 <div class="admonitionblock note">
 <table>
