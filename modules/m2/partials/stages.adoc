@@ -1,4 +1,6 @@
-|===| Nom | Prénom | Entreprise | Sujet 
+|===
+| Nom | Prénom | Entreprise | Sujet
+
 | Anki | Lucas | link:http://synovo.fr[Synovo] | _Détermination des meilleurs paramètres de la fonction d'évaluation d'un algorithme génétique pour un Vehicle Routing Problem._
 
 | Azzoug | Celia | link:[New Xperience-3D] | _Développement Applicatif_
@@ -28,4 +30,5 @@ interactive._
 | Steimer | Guillaume | link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est] | _Apprendre la dynamique Hamiltonienne avec des réseaux de neurones_
 
 | Vallet | Romain | link:[Cnrs] | _Modélisation d'aimant supra conducteur a Haute Température Critique_
+
 |===

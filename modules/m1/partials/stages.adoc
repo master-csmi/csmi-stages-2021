@@ -1,4 +1,6 @@
-|===| Nom | Prénom | Entreprise | Sujet 
+|===
+| Nom | Prénom | Entreprise | Sujet
+
 | De Rose | Stève | link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace] | _Modélisation de la transmission aéroportéedu COVID-19_
 
 | Dumont | Quentin | link:[Bdr Thermea France] | _Optimisation multi-objectifs sous contraintes_
@@ -37,4 +39,5 @@ Création d'un modèle d'aide à un service de ressources humaines_
 | Untz | Mélissa | link:[Universite De Strasbourg - Ufr Math-Info] | _Le cycliste virtuel_
 
 | Van Landeghem | Celine | link:https://tetrao.eu/#use-cases[Tetrao] | _Développement d’algorithmes d’automatisation de processus web d’extractions de données_
+
 |===
