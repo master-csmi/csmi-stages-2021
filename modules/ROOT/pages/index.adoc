@@ -4,7 +4,7 @@
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
 :repo: csmi-stages
 :stages-uri: https://github.com/master-csmi/{repo}
-:pr-uri: https://github.com/master-csmi/{repo}}/compare
+:pr-uri: https://github.com/master-csmi/{repo}/compare
 :pdf-rep: modules/{master}/attachments
 = Master CSMI 
 :page-toclevels: 3
