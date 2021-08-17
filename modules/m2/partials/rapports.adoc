@@ -27,4 +27,4 @@ interactive._, link:https://www.insimo.com/fr/[Insimo], link:{attachmentsdir}/++
 
  - [[[Steimer]]] Steimer Guillaume, _Apprendre la dynamique hamiltonienne avec des réseaux de neurones_, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], link:{attachmentsdir}/++Steimer-Guillaume.pdf++[Steimer-Guillaume.pdf],  link:{attachmentsdir}/++Steimer-Guillaume-slides.pdf++[Steimer-Guillaume-slides.pdf] 
 
- - [[[Vallet]]] Vallet Romain, _Modélisation d'aimant supra conducteur a haute température critique_, link:[Cnrs], link:https://master-csmi.github.io/2020-m2-lncmi/lncmicfpdes/cfpdes/index.html[Vallet-Romain.pdf],  link:{attachmentsdir}/++Vallet-Romain-slides.pdf++[Vallet-Romain-slides.pdf] 
+ - [[[Vallet]]] Vallet Romain, _Modélisation d'aimant supra conducteur a haute température critique_, link:[Cnrs], link:https://master-csmi.github.io/2020-m2-lncmi/lncmicfpdes/cfpdes/index.html[Antora Site],  link:{attachmentsdir}/++Vallet-Romain-slides.pdf++[Vallet-Romain-slides.pdf] 
