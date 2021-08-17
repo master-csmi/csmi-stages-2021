@@ -2,9 +2,13 @@
 :imagesprefix:
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
 
-= Master CSMI {year}
+= Master M1 CSMI {year}
+
+== Stages
+
+include::partial$stages.adoc[]
 
 [bibliography]
-== References
+== Références
 
 include::partial$rapports.adoc[]
