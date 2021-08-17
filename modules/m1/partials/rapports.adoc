@@ -3,7 +3,9 @@
 
  - [[[Dumont]]] Dumont Quentin, _Optimisation multi-objectifs sous contraintes_, link:[Bdr Thermea France], link:{attachmentsdir}/++Dumont-Quentin.pdf++[Dumont-Quentin.pdf],  link:{attachmentsdir}/++Dumont-Quentin-slides.pdf++[Dumont-Quentin-slides.pdf] 
 
- - [[[Grigoryan]]] Grigoryan Mariam, _Modélisation de la qualité d'air dans des bâtiments et application au covid-19_, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:{attachmentsdir}/++Grigoryan-Mariam.pdf++[Grigoryan-Mariam.pdf],  link:{attachmentsdir}/++Grigoryan-Mariam-slides.pdf++[Grigoryan-Mariam-slides.pdf] 
+ - [[[Grigoryan]]] Grigoryan Mariam, _Modélisation de la qualité d'air dans des bâtiments et application au covid-19_, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:https://master-csmi.github.io/project-csmi-2021-covid19/covid19/1.0.0/mariam/index.html[Grigoryan-Mariam.pdf], link:{attachmentsdir}/Mariam_slides.pdf[Grigoryan-Mariam-slides.pdf]
+
+ 
 
  - [[[Guidet]]] Guidet Laurène, _Mesurer et modéliser la performance du cycliste en compétition_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Guidet-Laurène.pdf++[Guidet-Laurène.pdf],  link:{attachmentsdir}/++Guidet-Laurène-slides.pdf++[Guidet-Laurène-slides.pdf] 
 
