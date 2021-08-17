@@ -1,0 +1,40 @@
+|===| Nom | Prénom | Entreprise | Sujet 
+| De Rose | Stève | link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace] | _Modélisation de la transmission aéroportéedu COVID-19_
+
+| Dumont | Quentin | link:[Bdr Thermea France] | _Optimisation multi-objectifs sous contraintes_
+
+| Grigoryan | Mariam | link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace] | _Modélisation de la qualité d'air dans des bâtiments et application au Covid-19_
+
+| Guidet | Laurène | link:[Universite De Strasbourg - Ufr Math-Info] | _Mesurer et modéliser la performance du cycliste en compétition_
+
+| Holler | Colin | link:[Universite De Strasbourg - Ufr Math-Info] | _Implémentation et comparaison de modèles cardiovasculaire_
+
+| Italiano | Vincent | link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est] | _Stratégies optimales de régulation d'épidémies_
+
+| Jacquin | Lucas | link:https://www.unistra.fr[Universite De Strasbourg] | _Nage active dans un fluide_
+
+| Kermezli | Ikram | link:[Universite De Strasbourg - Ufr Math-Info] | _Classification Cahn hilliard_
+
+| Klein | Anita | link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace] | _Modélisation de la respiration en présence de pathologies_
+
+| Klockenbring | Dimitri | link:[Bdr Thermea France] | _Optimisation multi-objectifs sous contraintes_
+
+| Loeb | Quentin | link:[Bdr Thermea France] | _Construire un modèle de pompe à chaleur à partir de DLL fournisseurs_
+
+| Lorentz | Celine | link:[Universite De Strasbourg - Ufr Math-Info] | _Mesurer et modéliser la performance du cycliste en compétition_
+
+| Mengel | Corentin | link:https://www.unistra.fr[Universite De Strasbourg] | _Traitement des discontinuités dans les simulation EDP par apprentissage sur maillage_
+
+| Mousel | Jimmy | link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace] | _Modélisation de l’impact environnemental sur des cyclistes professionnels et des personnes dans des bâtiments._
+
+| Muzet | Jeremie | link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg] | _Analyse théorique des relations entre les approches acoustiques semi-phénoménologique et les approche d'homogénéisation auto-cohérente à géométrie cylindrique_
+
+| Reitzer | Marie | link:https://www.e-i.com/fr/index.html[Euro Information Developpements] | _Projet de réalisation d’un applicatif destiné à extraire une synthèse de la vie et de la valorisation d’un ou de plusieurs contrats en Assurance Vie  appartenant à un tiers._
+
+| Schuffenecker | Antoine | link:https://www.alphaby.fr/[Alphaby] | _Analyse et modélisation de causes d'abandon d'un formulaire en ligne._x000D_
+Création d'un modèle d'aide à un service de ressources humaines_
+
+| Untz | Mélissa | link:[Universite De Strasbourg - Ufr Math-Info] | _Le cycliste virtuel_
+
+| Van Landeghem | Celine | link:https://tetrao.eu/#use-cases[Tetrao] | _Développement d’algorithmes d’automatisation de processus web d’extractions de données_
+|===

@@ -1,0 +1,31 @@
+|===| Nom | Prénom | Entreprise | Sujet 
+| Anki | Lucas | link:http://synovo.fr[Synovo] | _Détermination des meilleurs paramètres de la fonction d'évaluation d'un algorithme génétique pour un Vehicle Routing Problem._
+
+| Azzoug | Celia | link:[New Xperience-3D] | _Développement Applicatif_
+
+| Bernard | Pierre | link:https://total.direct-energie.com[Total Direct Energie] | _Accompagner Total Direct Energie dans l’exploration des données, la mise en place d’algorithmes et le suivi des modèles pour différents cas d’usages._
+
+| El Houssaini | Youness | link:https://www.iwm.fraunhofer.de/en/contact.html[Fraunhofer Institute For Mechanics Of Materials] | _Control of the Goldak heat source parameters_x000D_
+based on experimental welding data using finite element analysis._
+
+| Graff | Jonathan | link:https://www.unistra.fr[Universite De Strasbourg] | _Algèbres géométriques pour la robotique en Coq_
+
+| Madani | Sarra Amel | link:https://www.fr.capgemini.com/[Capgemini Technology Services] | _Stage Consultante SAP BI_
+
+| Nzoyem Ngueguin | Roussel Desmond | link:[Sorbonne Universite] | _Fracturation des floes de glace par percutions dans un modèle granulaire_
+
+| Ouachour | Hanane | link:https://www.univ-orleans.fr/fr/polytech[Universite D'Orleans - Laboratoire Prisme - Polytech' Orleans] | _Apport des méthodes d’apprentissage profond pour la reconnaissance des actes des énoncés oraux - Université d'Orléans - Projet RTR DIAMS (19022LIF)_
+
+| Pinçon | Philippe | link:https://www.insimo.com/fr/[Insimo] | _Mise à jour de factorisations de Cholesky creuses dans le contexte de la simulation chirurgicale_x000D_
+interactive._
+
+| Pinçon | Philippe | link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est] | _Mise à jour de factorisations de Cholesky creuses dans le contexte de la simulation chirurgicale interactive._
+
+| Saigre-Tardif | Thomas | link:[Universite De Strasbourg - Ufr Math-Info] | _Méthode de réduction d'ordre pour un modèle poreux-élastique et couplage avec un système d'EDO_
+
+| Sprunck | Tom | link:[Cea Centre Dam Ile-De-France] | _Estimation rapide des courants et inondations de tsunami à partir d'algorithmes de deep learning_
+
+| Steimer | Guillaume | link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est] | _Apprendre la dynamique Hamiltonienne avec des réseaux de neurones_
+
+| Vallet | Romain | link:[Cnrs] | _Modélisation d'aimant supra conducteur a Haute Température Critique_
+|===
