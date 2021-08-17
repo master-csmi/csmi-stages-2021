@@ -3,7 +3,7 @@
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
 
 
-= Master M1 CSMI {year}
+= Master M2 CSMI {year}
 
 == Stages
 
