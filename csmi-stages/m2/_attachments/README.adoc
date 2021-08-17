@@ -1,3 +1,3 @@
-= Rapports PDF
+= Rapports et slides PDF
 
-Ce repertoire contient les rapports PDF au format `nom-prenom-entreprise.pdf`
+Ce repertoire contient les rapports et slides PDF au format `Nom-Prenom.pdf` 
