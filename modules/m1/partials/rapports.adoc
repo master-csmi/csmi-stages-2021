@@ -25,7 +25,7 @@
 
  - [[[Mengel]]] Mengel Corentin, _Traitement des discontinuités dans les simulation edp par apprentissage sur maillage_, link:https://www.unistra.fr[Universite De Strasbourg], link:{attachmentsdir}/++Mengel-Corentin.pdf++[Mengel-Corentin.pdf],  link:{attachmentsdir}/++Mengel-Corentin-slides.pdf++[Mengel-Corentin-slides.pdf] 
 
- - [[[Mousel]]] Mousel Jimmy, _Modélisation de l’impact environnemental sur des cyclistes professionnels et des personnes dans des bâtiments._, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:{attachmentsdir}/++Mousel-Jimmy.pdf++[Mousel-Jimmy.pdf],  link:{attachmentsdir}/++Mousel-Jimmy-slides.pdf++[Mousel-Jimmy-slides.pdf] 
+ - [[[Mousel]]] Mousel Jimmy, _Modélisation de l’impact environnemental sur des cyclistes professionnels et des personnes dans des bâtiments._, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:https://master-csmi.github.io/project-csmi-2021-pulse-env/pulse-env/1.0.0/introduction.html[Mousel-Jimmy.pdf],  link:{attachmentsdir}/++Mousel-Jimmy-slides.pdf++[Mousel-Jimmy-slides.pdf] 
 
  - [[[Muzet]]] Muzet Jeremie, _Analyse théorique des relations entre les approches acoustiques semi-phénoménologique et les approche d'homogénéisation auto-cohérente à géométrie cylindrique_, link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg], link:{attachmentsdir}/++Muzet-Jeremie.pdf++[Muzet-Jeremie.pdf],  link:{attachmentsdir}/++Muzet-Jeremie-slides.pdf++[Muzet-Jeremie-slides.pdf] 
 
