@@ -1,5 +1,5 @@
 
- - [[[DeRose]]] De Rose Stève, _Modélisation de la transmission aéroportéedu covid-19_, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:https://github.com/master-csmi/project-csmi-2021-covid19/blob/develop/docs/modules/ROOT/pages/steve/airflow.adoc[De Rose-Stève Antora],  link:{attachmentsdir}/++De Rose-Stève-slides.pdf++[De Rose-Stève-slides.pdf] 
+ - [[[DeRose]]] De Rose Stève, _Modélisation de la transmission aéroportéedu covid-19_, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:https://master-csmi.github.io/project-csmi-2021-covid19/covid19/1.0.0/steve/airflow.html[De Rose-Stève Antora site],  link:{attachmentsdir}/++De Rose-Stève-slides.pdf++[De Rose-Stève-slides.pdf] 
 
  - [[[Dumont]]] Dumont Quentin, _Optimisation multi-objectifs sous contraintes_, link:[Bdr Thermea France], link:{attachmentsdir}/++Dumont-Quentin.pdf++[Dumont-Quentin.pdf],  link:{attachmentsdir}/++Dumont-Quentin-slides.pdf++[Dumont-Quentin-slides.pdf] 
 
