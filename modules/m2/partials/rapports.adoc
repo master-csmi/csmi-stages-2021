@@ -1,1 +1,30 @@
-- [[[saigre]]] Thomas saigre, _Titre_, Test : link:{attachmentsdir}/saigre-thomas-test.pdf[link to file]
+
+ - [[[Anki]]] Anki Lucas, _Détermination des meilleurs paramètres de la fonction d'évaluation d'un algorithme génétique pour un vehicle routing problem._, link:http://synovo.fr[Synovo], link:{attachmentsdir}/++Anki-Lucas.pdf++[Anki-Lucas.pdf],  link:{attachmentsdir}/++Anki-Lucas-slides.pdf++[Anki-Lucas-slides.pdf] 
+
+ - [[[Azzoug]]] Azzoug Celia, _Développement applicatif_, link:[New Xperience-3D], link:{attachmentsdir}/++Azzoug-Celia.pdf++[Azzoug-Celia.pdf],  link:{attachmentsdir}/++Azzoug-Celia-slides.pdf++[Azzoug-Celia-slides.pdf] 
+
+ - [[[Bernard]]] Bernard Pierre, _Accompagner total direct energie dans l’exploration des données, la mise en place d’algorithmes et le suivi des modèles pour différents cas d’usages._, link:https://total.direct-energie.com[Total Direct Energie], link:{attachmentsdir}/++Bernard-Pierre.pdf++[Bernard-Pierre.pdf],  link:{attachmentsdir}/++Bernard-Pierre-slides.pdf++[Bernard-Pierre-slides.pdf] 
+
+ - [[[ElHoussaini]]] El Houssaini Youness, _Control of the goldak heat source parameters_x000d_
+based on experimental welding data using finite element analysis._, link:https://www.iwm.fraunhofer.de/en/contact.html[Fraunhofer Institute For Mechanics Of Materials], link:{attachmentsdir}/++El Houssaini-Youness.pdf++[El Houssaini-Youness.pdf],  link:{attachmentsdir}/++El Houssaini-Youness-slides.pdf++[El Houssaini-Youness-slides.pdf] 
+
+ - [[[Graff]]] Graff Jonathan, _Algèbres géométriques pour la robotique en coq_, link:https://www.unistra.fr[Universite De Strasbourg], link:{attachmentsdir}/++Graff-Jonathan.pdf++[Graff-Jonathan.pdf],  link:{attachmentsdir}/++Graff-Jonathan-slides.pdf++[Graff-Jonathan-slides.pdf] 
+
+ - [[[Madani]]] Madani Sarra Amel, _Stage consultante sap bi_, link:https://www.fr.capgemini.com/[Capgemini Technology Services], link:{attachmentsdir}/++Madani-Sarra Amel.pdf++[Madani-Sarra Amel.pdf],  link:{attachmentsdir}/++Madani-Sarra Amel-slides.pdf++[Madani-Sarra Amel-slides.pdf] 
+
+ - [[[NzoyemNgueguin]]] Nzoyem Ngueguin Roussel Desmond, _Fracturation des floes de glace par percutions dans un modèle granulaire_, link:[Sorbonne Universite], link:{attachmentsdir}/++Nzoyem Ngueguin-Roussel Desmond.pdf++[Nzoyem Ngueguin-Roussel Desmond.pdf],  link:{attachmentsdir}/++Nzoyem Ngueguin-Roussel Desmond-slides.pdf++[Nzoyem Ngueguin-Roussel Desmond-slides.pdf] 
+
+ - [[[Ouachour]]] Ouachour Hanane, _apport des méthodes d’apprentissage profond pour la reconnaissance des actes des énoncés oraux - université d'orléans - projet rtr diams (19022lif)_, link:https://www.univ-orleans.fr/fr/polytech[Universite D'Orleans - Laboratoire Prisme - Polytech' Orleans], link:{attachmentsdir}/++Ouachour-Hanane.pdf++[Ouachour-Hanane.pdf],  link:{attachmentsdir}/++Ouachour-Hanane-slides.pdf++[Ouachour-Hanane-slides.pdf] 
+
+ - [[[Pinçon]]] Pinçon Philippe, _Mise à jour de factorisations de cholesky creuses dans le contexte de la simulation chirurgicale_x000d_
+interactive._, link:https://www.insimo.com/fr/[Insimo], link:{attachmentsdir}/++Pinçon-Philippe.pdf++[Pinçon-Philippe.pdf],  link:{attachmentsdir}/++Pinçon-Philippe-slides.pdf++[Pinçon-Philippe-slides.pdf] 
+
+ - [[[Pinçon]]] Pinçon Philippe, _Mise à jour de factorisations de cholesky creuses dans le contexte de la simulation chirurgicale interactive._, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], link:{attachmentsdir}/++Pinçon-Philippe.pdf++[Pinçon-Philippe.pdf],  link:{attachmentsdir}/++Pinçon-Philippe-slides.pdf++[Pinçon-Philippe-slides.pdf] 
+
+ - [[[Saigre-Tardif]]] Saigre-Tardif Thomas, _Méthode de réduction d'ordre pour un modèle poreux-élastique et couplage avec un système d'edo_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Saigre-Tardif-Thomas.pdf++[Saigre-Tardif-Thomas.pdf],  link:{attachmentsdir}/++Saigre-Tardif-Thomas-slides.pdf++[Saigre-Tardif-Thomas-slides.pdf] 
+
+ - [[[Sprunck]]] Sprunck Tom, _Estimation rapide des courants et inondations de tsunami à partir d'algorithmes de deep learning_, link:[Cea Centre Dam Ile-De-France], link:{attachmentsdir}/++Sprunck-Tom.pdf++[Sprunck-Tom.pdf],  link:{attachmentsdir}/++Sprunck-Tom-slides.pdf++[Sprunck-Tom-slides.pdf] 
+
+ - [[[Steimer]]] Steimer Guillaume, _Apprendre la dynamique hamiltonienne avec des réseaux de neurones_, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], link:{attachmentsdir}/++Steimer-Guillaume.pdf++[Steimer-Guillaume.pdf],  link:{attachmentsdir}/++Steimer-Guillaume-slides.pdf++[Steimer-Guillaume-slides.pdf] 
+
+ - [[[Vallet]]] Vallet Romain, _Modélisation d'aimant supra conducteur a haute température critique_, link:[Cnrs], link:https://master-csmi.github.io/2020-m2-lncmi/lncmicfpdes/cfpdes/index.html[Antora Site],  link:{attachmentsdir}/++Vallet-Romain-slides.pdf++[Vallet-Romain-slides.pdf] 

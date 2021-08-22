@@ -2,7 +2,13 @@
 :imagesprefix:
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
 
-= Master CSMI
+
+= Master M2 CSMI {year}
+
+== Stages
+
+include::partial$stages.adoc[]
+
 
 
 == Test, Thomas Saigre
@@ -16,6 +22,6 @@ link:{attachmentsdir}/saigre-thomas-test-slides.pdf[link to presentation]
 image:{imagesprefix}saigre-thomas.jpg[]
 
 [bibliography]
-== References
+== Stages
 
 include::partial$rapports.adoc[]

@@ -1,1 +1,39 @@
-- [[[mengel]]] Corentin Mengel, titre
+
+ - [[[DeRose]]] De Rose Stève, _Modélisation de la transmission aéroportéedu covid-19_, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:{attachmentsdir}/++De Rose-Stève.pdf++[De Rose-Stève.pdf],  link:{attachmentsdir}/++De Rose-Stève-slides.pdf++[De Rose-Stève-slides.pdf] 
+
+ - [[[Dumont]]] Dumont Quentin, _Optimisation multi-objectifs sous contraintes_, link:[Bdr Thermea France], link:{attachmentsdir}/++Dumont-Quentin.pdf++[Dumont-Quentin.pdf],  link:{attachmentsdir}/++Dumont-Quentin-slides.pdf++[Dumont-Quentin-slides.pdf] 
+
+ - [[[Grigoryan]]] Grigoryan Mariam, _Modélisation de la qualité d'air dans des bâtiments et application au covid-19_, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:{attachmentsdir}/++Grigoryan-Mariam.pdf++[Grigoryan-Mariam.pdf],  link:{attachmentsdir}/++Grigoryan-Mariam-slides.pdf++[Grigoryan-Mariam-slides.pdf] 
+
+ - [[[Guidet]]] Guidet Laurène, _Mesurer et modéliser la performance du cycliste en compétition_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Guidet-Laurène.pdf++[Guidet-Laurène.pdf],  link:{attachmentsdir}/++Guidet-Laurène-slides.pdf++[Guidet-Laurène-slides.pdf] 
+
+ - [[[Holler]]] Holler Colin, _Implémentation et comparaison de modèles cardiovasculaire_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Holler-Colin.pdf++[Holler-Colin.pdf],  link:{attachmentsdir}/++Holler-Colin-slides.pdf++[Holler-Colin-slides.pdf] 
+
+ - [[[Italiano]]] Italiano Vincent, _Stratégies optimales de régulation d'épidémies_, link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est], link:{attachmentsdir}/++Italiano-Vincent.pdf++[Italiano-Vincent.pdf],  link:{attachmentsdir}/++Italiano-Vincent-slides.pdf++[Italiano-Vincent-slides.pdf] 
+
+ - [[[Jacquin]]] Jacquin Lucas, _Nage active dans un fluide_, link:https://www.unistra.fr[Universite De Strasbourg], link:{attachmentsdir}/++Jacquin-Lucas.pdf++[Jacquin-Lucas.pdf],  link:{attachmentsdir}/++Jacquin-Lucas-slides.pdf++[Jacquin-Lucas-slides.pdf] 
+
+ - [[[Kermezli]]] Kermezli Ikram, _Classification cahn hilliard_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Kermezli-Ikram.pdf++[Kermezli-Ikram.pdf],  link:{attachmentsdir}/++Kermezli-Ikram-slides.pdf++[Kermezli-Ikram-slides.pdf] 
+
+ - [[[Klein]]] Klein Anita, _Modélisation de la respiration en présence de pathologies_, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:{attachmentsdir}/++Klein-Anita.pdf++[Klein-Anita.pdf],  link:{attachmentsdir}/++Klein-Anita-slides.pdf++[Klein-Anita-slides.pdf] 
+
+ - [[[Klockenbring]]] Klockenbring Dimitri, _Optimisation multi-objectifs sous contraintes_, link:[Bdr Thermea France], link:{attachmentsdir}/++Klockenbring-Dimitri.pdf++[Klockenbring-Dimitri.pdf],  link:{attachmentsdir}/++Klockenbring-Dimitri-slides.pdf++[Klockenbring-Dimitri-slides.pdf] 
+
+ - [[[Loeb]]] Loeb Quentin, _Construire un modèle de pompe à chaleur à partir de dll fournisseurs_, link:[Bdr Thermea France], link:{attachmentsdir}/++Loeb-Quentin.pdf++[Loeb-Quentin.pdf],  link:{attachmentsdir}/++Loeb-Quentin-slides.pdf++[Loeb-Quentin-slides.pdf] 
+
+ - [[[Lorentz]]] Lorentz Celine, _Mesurer et modéliser la performance du cycliste en compétition_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Lorentz-Celine.pdf++[Lorentz-Celine.pdf],  link:{attachmentsdir}/++Lorentz-Celine-slides.pdf++[Lorentz-Celine-slides.pdf] 
+
+ - [[[Mengel]]] Mengel Corentin, _Traitement des discontinuités dans les simulation edp par apprentissage sur maillage_, link:https://www.unistra.fr[Universite De Strasbourg], link:{attachmentsdir}/++Mengel-Corentin.pdf++[Mengel-Corentin.pdf],  link:{attachmentsdir}/++Mengel-Corentin-slides.pdf++[Mengel-Corentin-slides.pdf] 
+
+ - [[[Mousel]]] Mousel Jimmy, _Modélisation de l’impact environnemental sur des cyclistes professionnels et des personnes dans des bâtiments._, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:{attachmentsdir}/++Mousel-Jimmy.pdf++[Mousel-Jimmy.pdf],  link:{attachmentsdir}/++Mousel-Jimmy-slides.pdf++[Mousel-Jimmy-slides.pdf] 
+
+ - [[[Muzet]]] Muzet Jeremie, _Analyse théorique des relations entre les approches acoustiques semi-phénoménologique et les approche d'homogénéisation auto-cohérente à géométrie cylindrique_, link:http://www.cerema.fr/[Cerema - Direction Territoriale Est- Agence De Strasbourg], link:{attachmentsdir}/++Muzet-Jeremie.pdf++[Muzet-Jeremie.pdf],  link:{attachmentsdir}/++Muzet-Jeremie-slides.pdf++[Muzet-Jeremie-slides.pdf] 
+
+ - [[[Reitzer]]] Reitzer Marie, _Projet de réalisation d’un applicatif destiné à extraire une synthèse de la vie et de la valorisation d’un ou de plusieurs contrats en assurance vie  appartenant à un tiers._, link:https://www.e-i.com/fr/index.html[Euro Information Developpements], link:{attachmentsdir}/++Reitzer-Marie.pdf++[Reitzer-Marie.pdf],  link:{attachmentsdir}/++Reitzer-Marie-slides.pdf++[Reitzer-Marie-slides.pdf] 
+
+ - [[[Schuffenecker]]] Schuffenecker Antoine, _Analyse et modélisation de causes d'abandon d'un formulaire en ligne._x000d_
+création d'un modèle d'aide à un service de ressources humaines_, link:https://www.alphaby.fr/[Alphaby], link:{attachmentsdir}/++Schuffenecker-Antoine.pdf++[Schuffenecker-Antoine.pdf],  link:{attachmentsdir}/++Schuffenecker-Antoine-slides.pdf++[Schuffenecker-Antoine-slides.pdf] 
+
+ - [[[Untz]]] Untz Mélissa, _Le cycliste virtuel_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Untz-Mélissa.pdf++[Untz-Mélissa.pdf],  link:{attachmentsdir}/++Untz-Mélissa-slides.pdf++[Untz-Mélissa-slides.pdf] 
+
+ - [[[VanLandeghem]]] Van Landeghem Celine, _Développement d’algorithmes d’automatisation de processus web d’extractions de données_, link:https://tetrao.eu/#use-cases[Tetrao], link:{attachmentsdir}/++Van Landeghem-Celine.pdf++[Van Landeghem-Celine.pdf],  link:{attachmentsdir}/++Van Landeghem-Celine-slides.pdf++[Van Landeghem-Celine-slides.pdf] 

@@ -4,7 +4,7 @@
 ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
 :repo: csmi-stages
 :stages-uri: https://github.com/master-csmi/{repo}
-:pr-uri: https://github.com/master-csmi/{repo}}/compare
+:pr-uri: https://github.com/master-csmi/{repo}/compare
 :pdf-rep: modules/{master}/attachments
 = Master CSMI 
 :page-toclevels: 3
@@ -26,39 +26,10 @@ cd {repo}
 git checkout -b `{master}-<votre nom>`
 --
 
-* ajouter votre rapport au répertoire `modules/{master}/attachments/nom-prenom-entreprise.pdf`
-* ajouter votre présentation au répertoire `modules/{master}/attachments/nom-prenom-entreprise-slides.pdf`
-* éditer `modules/{master}/partials/rapports.adoc`
-
-[source,asciidoc]
---
- -  [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers le pdf du rapport, lien vers le PDF de la présentation
---
-
-* éditer `modules/{master}/pages/index.adoc` et rajouter une section avec
-  - titre du rapport, nom prénom 
-  - résumé de quelques lignes du contexte & travail accompli
-  - un lien vers le PDF de votre rapport
-  - une image illustrative du travail avec une annotation qui sera déposée dans `modules/{master}/images/nom-prenom.png` (ou au format jpeg) et utilisée avec le résumé pour illustrer votre travail.
-
-NOTE: suivre l'exemple des rapports déjà présents
-
-* vérifier que le site peut être généré correctement. Il faudrait éventuellement installer node et nvm, dans ce cas suivre la procédure https://docs.antora.org/antora/2.3/install-and-run-quickstart/#install-nodejs[ici].
-
-.Sous Linux
-[source,shell]
---
-# les 3 lignes sont uniquement pour l'installation
-nvm install --lts
-nvm alias default 12
-npm install
-# génération du site
-npm run dev
-# création du serveur web
-npm run serve
---
-cliquer sur l'url donnée pour visualiser le site
-
+* ajouter votre rapport au répertoire `modules/{master}/attachments/Nom-Prenom.pdf`
+* ajouter votre présentation au répertoire `modules/{master}/attachments/Nom-Prenom-slides.pdf`
+* s'assurer que les PDF correspondent aux liens de votre rapport et présentation dans la page https://master-csmi.github.io/csmi-stages/csmi-stages/{master}/index.html
+* éditer `modules/{master}/partials/rapports.adoc` si besoin pour corriger la référence à votre travail
 * committer vos changements et pousser votre branche sur github 
 
 [source,shell]
@@ -84,8 +55,6 @@ Le travail de stage se présentera sous la forme suivante:
 
 * [x] un rapport de stage au format PDF ou un site Antora
 * [x] une présentation au format PDF
-* [x] un résumé du contexte et du travail accompli
-* [x] une image illustrant votre travail avec son annotation
 
 Votre travail sera déposé sur le site de l'année correspondante.
 
@@ -102,12 +71,7 @@ par::[{year},m2]
 === Comment déposer un rapport Antora
 
 Pour déposer le rapport Antora il suffit de suivre les étapes pour le rapport PDF 
-excepté que vous n'avez pas à déposer votre rapport mais à mettre le lien vers
-le site antora de votre rapport dans `rapports.adoc` ainsi que le résumé de votre travail.
-
-* éditer m1/partials/rapports.adoc 
-----
-- [[[nom]]] Prénom Nom, titre rapport, Entreprise, lien vers la page antora de votre rapport
-----
+excepté que vous n'avez pas à déposer votre rapport PDF mais à mettre le lien vers
+le site antora de votre rapport dans `modules/{master}/partials/rapports.adoc`.
 
 NOTE: votre présentation sera au format PDF.
