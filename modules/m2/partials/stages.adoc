@@ -13,7 +13,7 @@ based on experimental welding data using finite element analysis._
 
 | Graff | Jonathan | link:https://www.unistra.fr[Universite De Strasbourg] | _Algèbres géométriques pour la robotique en Coq_
 
-| Madani | Sarra Amel | link:https://www.fr.capgemini.com/[Capgemini Technology Services] | _Stage Consultante SAP BI_
+| Madani | Sarra Amel | link:https://www.capgemini.com/fr-fr/[Capgemini Technology Services] | _Stage Consultante SAP BI_
 
 | Nzoyem Ngueguin | Roussel Desmond | link:[Sorbonne Universite] | _Fracturation des floes de glace par percutions dans un modèle granulaire_
 
