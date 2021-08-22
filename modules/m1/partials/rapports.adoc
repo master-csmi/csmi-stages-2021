@@ -15,7 +15,7 @@
 
  - [[[Kermezli]]] Kermezli Ikram, _Classification cahn hilliard_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Kermezli-Ikram.pdf++[Kermezli-Ikram.pdf],  link:{attachmentsdir}/++Kermezli-Ikram-slides.pdf++[Kermezli-Ikram-slides.pdf] 
 
- - [[[Klein]]] Klein Anita, _Modélisation de la respiration en présence de pathologies_, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:{attachmentsdir}/++Klein-Anita.pdf++[Klein-Anita.pdf],  link:{attachmentsdir}/++Klein-Anita-slides.pdf++[Klein-Anita-slides.pdf] 
+ - [[[Klein]]] Klein Anita, _Modélisation de la respiration en présence de pathologies_, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:https://master-csmi.github.io/project-csmi-2021-covid19/covid19/1.0.0/anita/text.html /++Klein-Anita.pdf++[Klein-Anita.pdf],  link:{attachmentsdir}/++Klein-Anita-slides.pdf++[Klein-Anita-slides.pdf] 
 
  - [[[Klockenbring]]] Klockenbring Dimitri, _Optimisation multi-objectifs sous contraintes_, link:[Bdr Thermea France], link:{attachmentsdir}/++Klockenbring-Dimitri.pdf++[Klockenbring-Dimitri.pdf],  link:{attachmentsdir}/++Klockenbring-Dimitri-slides.pdf++[Klockenbring-Dimitri-slides.pdf] 
 
