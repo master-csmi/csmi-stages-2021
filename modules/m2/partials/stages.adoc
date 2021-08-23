@@ -6,7 +6,7 @@
 
 | Azzoug | Celia | link:[New Xperience-3D] | _Développement Applicatif_
 
-| Bernard | Pierre | link:https://total.direct-energie.com[Total Direct Energie] | _Accompagner Total Direct Energie dans l’exploration des données, la mise en place d’algorithmes et le suivi des modèles pour différents cas d’usages._
+| Bernard | Pierre | link:https://www.totalenergies.fr/[TotalEnergies] | _Accompagner TotalEnergies dans l’exploration des données, la mise en place d’algorithmes et le suivi des modèles pour différents cas d’usages._
 
 | El Houssaini | Youness | link:https://www.iwm.fraunhofer.de/en/contact.html[Fraunhofer Institute For Mechanics Of Materials] | _Control of the Goldak heat source parameters_x000D_
 based on experimental welding data using finite element analysis._
