@@ -15,7 +15,7 @@ based on experimental welding data using finite element analysis._
 
 | Madani | Sarra Amel | link:https://www.capgemini.com/fr-fr/[Capgemini Technology Services] | _Stage Consultante SAP BI_
 
-| Nzoyem Ngueguin | Roussel Desmond | link:[Sorbonne Universite] | _Fracturation des floes de glace par percutions dans un modèle granulaire_
+| Nzoyem Ngueguin | Roussel Desmond | link:[Sorbonne Universite] | _Fracturation des floes de glace par percussions dans un modèle granulaire_
 
 | Ouachour | Hanane | link:https://www.univ-orleans.fr/fr/polytech[Universite D'Orleans - Laboratoire Prisme - Polytech' Orleans] | _Apport des méthodes d’apprentissage profond pour la reconnaissance des actes des énoncés oraux - Université d'Orléans - Projet RTR DIAMS (19022LIF)_
 
