@@ -9,18 +9,6 @@ ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
 
 include::partial$stages.adoc[]
 
-
-
-== Test, Thomas Saigre
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget dolor at ex egestas auctor vel eu orci. Aliquam ac elementum ex. Duis at sapien elit. Nullam elementum fringilla turpis id fringilla. Phasellus commodo nisi in commodo commodo. Etiam scelerisque velit vitae metus rutrum ornare. Phasellus ut rhoncus nisi. Pellentesque sed accumsan felis, sit amet condimentum ipsum. Phasellus vestibulum consequat orci, nec mattis lectus venenatis et. Nunc rhoncus sapien in elit fermentum consequat. Etiam maximus auctor ex ac venenatis. Quisque vel viverra eros. Nullam non massa in enim finibus ullamcorper sed sit amet enim.
-
-link:{attachmentsdir}/saigre-thomas-test.pdf[link to file]
-
-link:{attachmentsdir}/saigre-thomas-test-slides.pdf[link to presentation]
-
-image:{imagesprefix}saigre-thomas.jpg[]
-
 [bibliography]
 == Stages
 
