@@ -9,7 +9,6 @@ ifdef::env-github,env-browser,env-vscode[:imagesprefix:]
 
 include::partial$stages.adoc[]
 
-
 [bibliography]
 == Stages
 

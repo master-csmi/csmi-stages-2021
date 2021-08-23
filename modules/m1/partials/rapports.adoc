@@ -17,7 +17,7 @@
 
  - [[[Kermezli]]] Kermezli Ikram, _Classification cahn hilliard_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Kermezli-Ikram.pdf++[Kermezli-Ikram.pdf],  link:{attachmentsdir}/++Kermezli-Ikram-slides.pdf++[Kermezli-Ikram-slides.pdf] 
 
- - [[[Klein]]] Klein Anita, _Modélisation de la respiration en présence de pathologies_, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:https://master-csmi.github.io/project-csmi-2021-covid19/covid19/1.0.0/anita/text.html /++Klein-Anita.pdf++[Klein-Anita Antora Site],  link:{attachmentsdir}/++Klein-Anita-slides.pdf++[Klein-Anita-slides.pdf] 
+ - [[[Klein]]] Klein Anita, _Modélisation de la respiration en présence de pathologies_, link:http://www.alsace.cnrs.fr[Cnrs Delegation Alsace], link:https://master-csmi.github.io/project-csmi-2021-covid19/covid19/1.0.0/anita/text.html[Antora Site],  link:{attachmentsdir}/++Klein-Anita-slides.pdf++[Klein-Anita-slides.pdf] 
 
  - [[[Klockenbring]]] Klockenbring Dimitri, _Optimisation multi-objectifs sous contraintes_, link:[Bdr Thermea France], [Rapport secret],  [Présentation secrète] 
 
@@ -36,6 +36,6 @@
  - [[[Schuffenecker]]] Schuffenecker Antoine, _Analyse et modélisation de causes d'abandon d'un formulaire en ligne._x000d_
 création d'un modèle d'aide à un service de ressources humaines_, link:https://www.alphaby.fr/[Alphaby], link:{attachmentsdir}/++Schuffenecker-Antoine.pdf++[Schuffenecker-Antoine.pdf],  link:{attachmentsdir}/++Schuffenecker-Antoine-slides.pdf++[Schuffenecker-Antoine-slides.pdf] 
 
- - [[[Untz]]] Untz Mélissa, _Le cycliste virtuel_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Untz-Mélissa.pdf++[Untz-Mélissa.pdf],  link:{attachmentsdir}/++Untz-Mélissa-slides.pdf++[Untz-Mélissa-slides.pdf] 
+ - [[[Untz]]] Untz Mélissa, _Le cycliste virtuel_, link:[Universite De Strasbourg - Ufr Math-Info], link:{attachmentsdir}/++Untz-Melissa.pdf++[Untz-Melissa.pdf],  link:{attachmentsdir}/++Untz-Melissa-slides.pdf++[Untz-Melissa-slides.pdf] 
 
  - [[[VanLandeghem]]] Van Landeghem Celine, _Développement d’algorithmes d’automatisation de processus web d’extractions de données_, link:https://tetrao.eu/#use-cases[Tetrao], link:{attachmentsdir}/++Van Landeghem-Celine.pdf++[Van Landeghem-Celine.pdf],  link:{attachmentsdir}/++Van Landeghem-Celine-slides.pdf++[Van Landeghem-Celine-slides.pdf] 
