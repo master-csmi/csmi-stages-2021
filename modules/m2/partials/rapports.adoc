@@ -10,7 +10,7 @@ based on experimental welding data using finite element analysis._, link:https:/
 
  - [[[Graff]]] Graff Jonathan, _Algèbres géométriques pour la robotique en coq_, link:https://www.unistra.fr[Universite De Strasbourg], link:{attachmentsdir}/++Graff-Jonathan.pdf++[Graff-Jonathan.pdf],  link:{attachmentsdir}/++Graff-Jonathan-slides.pdf++[Graff-Jonathan-slides.pdf] 
 
- - [[[Madani]]] Madani Sarra Amel, _Stage consultante sap bi_, link:https://www.capgemini.com/fr-fr/[Capgemini Technology Services], link:{attachmentsdir}/++Madani-Sarra-Amel.pdf++[Madani-Sarra-Amel.pdf],  link:{attachmentsdir}/++Madani-Sarra-Amel-slides.pdf++[Madani-Sarra-Amel-slides.pdf] 
+ - [[[Madani]]] Madani Sarra Amel, _Stage consultante sap bi_, link:https://www.capgemini.com/fr-fr/[Capgemini Technology Services], [rapport secret],  [présentation secrète] 
 
  - [[[NzoyemNgueguin]]] Nzoyem Ngueguin Roussel Desmond, _Fracturation des floes de glace par percussion dans un modèle granulaire_, link:[Sorbonne Universite], link:{attachmentsdir}/++NzoyemNgueguin-RousselDesmond.pdf++[NzoyemNgueguin-RousselDesmond.pdf],  link:{attachmentsdir}/++NzoyemNgueguin-RousselDesmond-slides.pdf++[NzoyemNgueguin-RousselDesmond-slides.pdf] 
 
