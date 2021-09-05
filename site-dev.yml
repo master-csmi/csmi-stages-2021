@@ -1,7 +1,7 @@
 site:
-  title: Master CSMI::Stages
+  title: Master CSMI::Stages 2021
   url: http://localhost:8081
-  start_page: csmi-stages:ROOT:index.adoc
+  start_page: csmi-stages-2021:ROOT:index.adoc
 content:
   sources:
   - url: ./
